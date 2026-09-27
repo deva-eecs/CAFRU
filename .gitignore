@@ -1,0 +1,6 @@
+*.vvp
+*.vcd
+*.log
+sim.vvp
+runs/
+__pycache__/
